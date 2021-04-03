@@ -1,0 +1,12 @@
+{
+    "name": "hoanghuulong/tailieuweb2",
+    "description": "Create text",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hoanghuulong",
+            "email": "hoanghuulong.krn@gmail.com"
+        }
+    ],
+    "require": {}
+}
