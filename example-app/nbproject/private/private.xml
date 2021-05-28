@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Models/User.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/seeders/seedCompanies.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/resources/views/welcome.blade.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/seeders/seedCategories.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/migrations/2021_04_10_034337_trainers.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Providers/AppServiceProvider.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Http/Controllers/CategoriesController.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/resources/views/trainers.blade.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Http/Controllers/TrainersSearch.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/resources/views/searchtrainers.blade.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Http/Controllers/SearchController.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Http/Controllers/CompaniesController.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/routes/web.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/resources/views/categories.blade.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/seeders/seedTrainers.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Http/Controllers/Controller.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Http/Controllers/TrainersController.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/resources/views/companies.blade.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Console/Kernel.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Providers/EventServiceProvider.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/migrations/2021_05_08_015904_categories.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/config/app.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/resources/views/searchcompanies.blade.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Models/Companies.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/.env</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/database/migrations/2021_04_10_031913_companies.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Models/Categories.php</file>
+            <file>file:/D:/hoanghuulong_nopbai_nopbaichieuthu7.git/example-app/app/Models/Trainers.php</file>
+        </group>
+    </open-files>
+</project-private>
